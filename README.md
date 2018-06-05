@@ -1,3 +1,5 @@
+This assignment is provided by *CODITAS*. As a part of recuritment process.
+
 FrontEndAssignment Is a Angular 2 based single page App that uses the Github Web API to find any user on github by it's user name.
 
 
@@ -10,7 +12,7 @@ After Installing nodejs, open your Terminal or cmd on windows and type following
 
 
 Sources:
-Various learning tutorial
-github
-eduonix
-udemy
+Various learning tutorial,
+github,
+eduonix,
+udemy.
