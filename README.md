@@ -6,4 +6,10 @@ After Installing nodejs, open your Terminal or cmd on windows and type following
 1. Install Node Modules: "npm install" 
 2. To run the App : "npm start" 
 
-This Application is Developed as a part of my Angular 2 Learning with guidance Eduonix.com (https://www.eduonix.com/)
+
+
+Sources:
+Various learning tutorial
+github
+eduonix
+udemy
